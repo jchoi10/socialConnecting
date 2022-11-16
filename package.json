@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.7.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "socialconnecting",
+  "description": "- ![MIT license badge](https://img.shields.io/badge/license-mit-blue) - N/A",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jchoi10/socialConnecting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jchoi10/socialConnecting/issues"
+  },
+  "homepage": "https://github.com/jchoi10/socialConnecting#readme"
+}
