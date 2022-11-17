@@ -5,12 +5,12 @@
 
 ## Demo Video Google Drive Link
 
-- [--](--)
-- [Demo Video](--) 
+- [https://drive.google.com/file/d/1fi07s7RfNAn82UDx98g9ux7eRFXBQUkP/view?usp=sharing](https://drive.google.com/file/d/1fi07s7RfNAn82UDx98g9ux7eRFXBQUkP/view?usp=sharing)
+- [Demo Video](./public/assets/socialConnecting_Demo.mov) 
 
 ## Application Screenshot
 
-![screenshot](--)
+![screenshot](./public/assets/socialConnecting_Insomnia_ss.png)
 
 
 # Area of improvemnet
